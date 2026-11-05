@@ -1,0 +1,7 @@
+# Local-only files
+.DS_Store
+Thumbs.db
+.env
+.env.*
+node_modules/
+__pycache__/

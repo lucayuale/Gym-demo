@@ -1,0 +1,14 @@
+VYB / PIVOT GYM BOOKING — GUÍA RÁPIDA
+
+1) Descomprimí el ZIP.
+2) Creá el repositorio de Gym en TU cuenta de GitHub.
+3) Subí el CONTENIDO de esta carpeta: index.html, config.js, app.js, styles.css, assets/, README.md, etc.
+   No subas solamente el ZIP ni una carpeta extra que encierre index.html.
+4) Hacé Commit.
+5) Settings > Pages > Deploy from a branch > main > /(root) > Save.
+6) Abrí la URL que GitHub muestre en Visit site.
+7) Probá idioma EN/ES, servicios, galería y botones Booking.
+
+IMPORTANTE: los turnos están DESACTIVADOS a propósito.
+NO hay enlace a la cuenta de Obsidian. Los botones informan que aún no hay reservas conectadas.
+Para un cliente real, configurá booking.url en config.js con SU calendario autorizado y probalo antes de publicar.
